@@ -49,7 +49,6 @@ CREATE TABLE salaries (
 );
 
 
-
 --Review tables
 select * from departments;
 select * from dept_emp;
